@@ -5,7 +5,7 @@
             	<a href="index.php"> CSE Bookstore </a>
         	</div>
         	<div class="text-muted pull-right">
-          		<a href="admin.php">Admin Login</a> 2023
+          		<a href="admin.php">Admin Login</a> - 2023
         	</div>
       	</footer>
     </div> <!-- /container -->
